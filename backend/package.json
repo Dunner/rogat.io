@@ -1,0 +1,15 @@
+{
+  "name": "rogat-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.0.0",
+    "morgan": "~1.0.0",
+    "mongoose" : "~4.6.8",
+    "body-parser": "~1.0.1"
+  }
+}

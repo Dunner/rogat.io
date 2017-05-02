@@ -1,0 +1,4 @@
+frontend/dist
+frontend/node_components
+backend/node_modules
+npm-debug.log
